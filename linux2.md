@@ -63,3 +63,34 @@ ether 02:42:a0:1e:82:96
 
 
 ```
+# 測驗:說明底下程式的意義
+```
+root@kali:/bin# cd ..
+root@kali:/# cd
+root@kali:~# 
+root@kali:/# ls
+0     etc             lib     lost+found  proc  srv  var
+bin   home            lib32   media       root  sys  vmlinuz
+boot  initrd.img      lib64   mnt         run   tmp  vmlinuz.old
+dev   initrd.img.old  libx32  opt         sbin  usr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
