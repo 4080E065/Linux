@@ -113,17 +113,18 @@ dev   initrd.img.old  libx32  opt         sbin  usr
 # 作業一:說明linux 上述的目錄結構
 ## 建目錄 mkdir 與刪除目錄 rmdir
 目錄===directory ===dir
-
+```
 root@kali:/# mkdir KSU
 root@kali:/# cd KSU
 root@kali:/KSU# ls
-
+```
 # 實戰：
+```
 (1)在kali linux根目錄建立python資料夾
 (2)下載python課本範例程式https://www.flag.com.tw/bk/ex/f9751
 (3)解壓縮範例程式
 (4)執行python程式
-
+```
 
 
 
